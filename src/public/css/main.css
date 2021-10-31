@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #fafafa;
+}
+
+/*==========================================*/
+
+.nav {
+	padding: 15px;
+	background-color: #99449c;
+}
+
+.title {
+	color: #fafafa;
+}
+
+/*==========================================*/
+
+.page-container {
+	margin: auto;
+	margin-top: 30px;
+	width: 94%;
+}
+
+.head {
+	margin: 5px;
+	color: #99449c;
+}
+
+/*==========================================*/
+
+.table, .row, .element {
+	border: 1px solid #000;
+	width: 100%;
+}
